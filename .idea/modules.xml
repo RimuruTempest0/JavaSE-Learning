@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01_DataTypes/01_DataTypes.iml" filepath="$PROJECT_DIR$/01_DataTypes/01_DataTypes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02.1_Class_Inheritance/02.1_Class_Inheritance.iml" filepath="$PROJECT_DIR$/02.1_Class_Inheritance/02.1_Class_Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02.2_Class_Abstract/02.2_Class_Abstract.iml" filepath="$PROJECT_DIR$/02.2_Class_Abstract/02.2_Class_Abstract.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02.3_Class_Interface/02.3_Class_Interface.iml" filepath="$PROJECT_DIR$/02.3_Class_Interface/02.3_Class_Interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02_Class/02_Class.iml" filepath="$PROJECT_DIR$/02_Class/02_Class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03_IO/03_IO.iml" filepath="$PROJECT_DIR$/03_IO/03_IO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04_List/04_List.iml" filepath="$PROJECT_DIR$/04_List/04_List.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05_Set/05_Set.iml" filepath="$PROJECT_DIR$/05_Set/05_Set.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06_Exception/06_Exception.iml" filepath="$PROJECT_DIR$/06_Exception/06_Exception.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07_Recursion/07_Recursion.iml" filepath="$PROJECT_DIR$/07_Recursion/07_Recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HeiMaJava.iml" filepath="$PROJECT_DIR$/HeiMaJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
+    </modules>
+  </component>
+</project>
