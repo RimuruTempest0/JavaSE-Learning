@@ -12,6 +12,7 @@
       <module fileurl="file://$PROJECT_DIR$/05_Set/05_Set.iml" filepath="$PROJECT_DIR$/05_Set/05_Set.iml" />
       <module fileurl="file://$PROJECT_DIR$/06_Exception/06_Exception.iml" filepath="$PROJECT_DIR$/06_Exception/06_Exception.iml" />
       <module fileurl="file://$PROJECT_DIR$/07_Recursion/07_Recursion.iml" filepath="$PROJECT_DIR$/07_Recursion/07_Recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08_String/08_String.iml" filepath="$PROJECT_DIR$/08_String/08_String.iml" />
       <module fileurl="file://$PROJECT_DIR$/HeiMaJava.iml" filepath="$PROJECT_DIR$/HeiMaJava.iml" />
       <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
     </modules>
