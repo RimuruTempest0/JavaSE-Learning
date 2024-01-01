@@ -11,7 +11,6 @@ public class StringBasic {
         //1, 直接赋值创建String对象
         String s1 = "abc";
         System.out.println(s1);
-
         //2, 使用new的方式创建String对象
         //空参构造:可以获取一个空白的字符串
         String s2 = new String();
