@@ -13,5 +13,9 @@ public class StringHideInfoPractive {
         }
         System.out.println(year+" year "+month+" month "+day+" day");
         System.out.println("Sex is: " + sex);
+
+        String talk = "别玩了，NMD";
+        String sensitiveString = talk.replace("NMD","***");
+        System.out.println(sensitiveString);
     }
 }
