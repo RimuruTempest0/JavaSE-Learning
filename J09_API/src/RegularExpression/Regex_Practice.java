@@ -32,5 +32,24 @@ public class Regex_Practice {
         System.out.println("02122442".matches(regex2));
         System.out.println("027-42424".matches(regex2));
         System.out.println("0712-3242434".matches(regex2));
+        System.out.println("------------------------------------------");
+        /*
+         第一部分： @的左边 \\w+
+                    任意的字母数字下划线，至少出现一次就可以了
+         第二部分： @只能出现一次
+         第三部分：
+            3.1： [\\w&&[^-]]{2,6}]：任意字符除了下划线_,总共出现2-6次
+            3.2:  \\. 表示出现并只能一次.(点)
+            3.3: [a-zA-z]{2,3}大写和小写字母都可以，但只能出现2-3次
+            3.4: (\.[a-zA-z]{2,3}){1,2} 前面那一组正则，可以出现1-2次
+        * */
+
+
+        String regex3 = "\\w+@[\\w&&[^-]]{2,6}(\\.[a-zA-z]{2,3}){1,2}";
+        System.out.println("3232323@qq.com".matches(regex3));
+        System.out.println("zhangsan@itcast.cnn".matches(regex3));
+        System.out.println("dlei0009@163.com".matches(regex3));
+        System.out.println("dlei0009@pci.com.cn".matches(regex3));
+        System.out.println("dlei0009@pci.com.cn".matches(regex3));
     }
 }
